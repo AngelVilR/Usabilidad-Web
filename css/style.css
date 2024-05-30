@@ -1,0 +1,73 @@
+body{
+    background-image: url("https://st.depositphotos.com/30440304/54479/i/450/depositphotos_544796690-stock-photo-abstract-black-panels-copyspace-text.jpg");
+    background-repeat: repeat-y;
+    background-size: contain;    
+}
+
+
+header{
+    color: black;
+    background-color: white;
+    text-align: center;
+    width: 86%;
+    margin: auto;
+    color: rgb(16, 194, 87);
+    text-shadow: 0px 1px black;
+}
+
+.BarraDeNavegacion{
+    background-color: white;
+    width: 84%;
+    margin: auto;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-left: 2%;
+    font-weight: bolder;    
+}
+.BarraDeNavegacion a{
+    text-decoration: none;
+    color: rgb(16, 194, 87);
+    text-shadow: 0px 1px black;
+    font-size: x-large;
+}
+
+
+table{
+    background-color: rgb(46, 207, 46);
+    text-align: center;
+    width: 50%;     
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table tbody tr:nth-child(odd){
+    background-color: rgb(175, 255, 175);
+    
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.CentrarNav{    
+    background-color: white; 
+    width: 80%;
+    margin: auto;
+    padding: 3%;
+    border: 5px solid black;
+    border-style: groove;
+}
+
+p{
+    text-align: justify;
+}
+
+h2,h3{
+    text-align: center;
+}
+
+img {        
+    display: block;
+    margin: auto;
+}
